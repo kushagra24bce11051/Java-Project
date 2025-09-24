@@ -1,0 +1,9 @@
+ID,RegNo,FullName,Email,Active,GPA
+STU001,2023001,John Smith,john.smith@university.edu,true,8.5
+STU002,2023002,Jane Doe,jane.doe@university.edu,true,9.2
+STU003,2023003,Bob Johnson,bob.johnson@university.edu,true,7.8
+STU004,2023004,Alice Brown,alice.brown@university.edu,true,8.9
+STU005,2023005,Charlie Wilson,charlie.wilson@university.edu,true,6.5
+
+
+

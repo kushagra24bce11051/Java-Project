@@ -1,0 +1,11 @@
+Code,Title,Credits,InstructorId,Semester,Department,Active
+CS101,Introduction to Programming,3,INST001,SPRING,Computer Science,true
+CS102,Data Structures,3,INST002,FALL,Computer Science,true
+CS201,Algorithms,4,INST001,SPRING,Computer Science,true
+MATH101,Calculus I,4,INST003,FALL,Mathematics,true
+MATH102,Calculus II,4,INST003,SPRING,Mathematics,true
+PHYS101,Physics I,4,INST004,FALL,Physics,true
+ENGL101,English Composition,3,INST005,SPRING,English,true
+
+
+
